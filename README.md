@@ -2,6 +2,8 @@
 
 I don't want to deal with LIFX's Smart Switch, so I'll fashion one myself.
 
+## Requirements
+
 ## Setup
 1. Clone this repo.
 2. Install requirements from requirements.txt.
@@ -30,4 +32,5 @@ Have another scene handy with those lights on.
 
 ## Future updates
 * GUI to edit the config.
+* Web server so you can edit the configs from a web browser.
 * Add Hue light support, maybe?
