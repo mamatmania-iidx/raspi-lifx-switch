@@ -4,11 +4,16 @@ I don't want to deal with LIFX's Smart Switch, so I'll fashion one myself.
 
 ## Requirements
 
+* A Raspberry Pi, of course.
+* LIFX lights, because duh.
+* Breadboard, cables, and buttons as necessary.
+
 ## Setup
 1. Clone this repo.
 2. Install requirements from requirements.txt.
 3. Create your own config.ini file, see example.
-4. Run script.py, or if you want to have fun on your own PC, the tkcircuit version on tkcircuit.py.
+4. Connect your buttons to the necessary pins.
+5. Run script.py, or if you want to have fun on your own PC, the tkcircuit version on tkcircuit.py.
 
 ## More on Config.ini
 
