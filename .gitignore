@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.ini
+.vscode/launch.json
+
+#Scene folder
+scenes/*.ini

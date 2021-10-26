@@ -1,0 +1,17 @@
+[BUTTON1]
+pin = 2
+behavior = Toggle
+type = Group
+target = Mancave
+
+[BUTTON2]
+pin = 3
+behavior = Toggle
+type = Location
+target = Home
+
+[SCENE1]
+pin = 4
+behavior = Scene
+type = Group
+target = Mancave
